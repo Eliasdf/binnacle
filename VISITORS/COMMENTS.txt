@@ -1,3 +1,0 @@
-Here you can put your comments. They are public, so by nice.
-
-FORMAT: #<ISLAND ID>-<COMMENT>
